@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@types/jquery": "^3.5.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "clipboard": "^2.0.6",
     "core-js": "^3.6.5",
